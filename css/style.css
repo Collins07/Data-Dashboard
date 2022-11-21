@@ -15,6 +15,12 @@
   -o-transform: rotate(45deg);
   -moz-transform: rotate(45deg); }
 
+.heading{
+  font-size: 30px;
+  background-color: #414755;
+  height: 68px;
+}
+
 
 :root {
   --blue: #2962FF;
